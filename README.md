@@ -71,3 +71,11 @@ The dataset is preprocessed to normalize image sizes and enhance image quality. 
 - Accuracy
 
 - Precision, Recall, and F1-Score
+
+# **Output**
+
+| Image | Predicted Class | Confidence |
+|-------|-----------------|------------|
+| ![image1](https://github.com/adhi1702/Pneumonia-Detection-using-Tensorflow/blob/main/test/IM-0030-0001.jpeg) | NORMAL | 95% |
+| ![image2](https://github.com/adhi1702/Pneumonia-Detection-using-Tensorflow/blob/main/test/person103_bacteria_488.jpeg) | PNEUMONIA | 92% |
+
